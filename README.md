@@ -13,5 +13,5 @@
 #### 소스코드
   * [model](/2ndNotice/src/com/bc/model/vo/)
   * [view](/2ndNotice/WebContent/)
-  * [controller](/2ndNotice/src/com/bc/controller/)
+  * [controller](/2ndNotice/src/com/bc/)
 
