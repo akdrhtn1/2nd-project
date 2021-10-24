@@ -15,3 +15,5 @@
   * [view](/2ndNotice/WebContent/)
   * [controller](/2ndNotice/src/com/bc/)
 
+### 3.구현ERD
+![구현ERD](https://user-images.githubusercontent.com/68181461/138590422-93e5e9f0-af55-49e2-a067-eeaf578b758a.png)
