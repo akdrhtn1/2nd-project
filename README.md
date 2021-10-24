@@ -9,11 +9,11 @@
 　　　　　&nbsp;손설빈(로그인,마이페이지) - 접속시 로그인 세션,유효성 검사 마이페이지 관련 처리 <br>
 　　　　　&nbsp;신지연(회원가입) - 회원가입 페이지, 유효성 검사 관련 처리 <br>
 　　　　　&nbsp;이명석(시터,부모 게시판) - 시터 부모게시판 등록 및 상세조회 처리 <br>
-               
+<br><br>               
 ### 2.소스코드
   * [model](/2ndNotice/src/com/bc/model/vo/)
   * [view](/2ndNotice/WebContent/)
   * [controller](/2ndNotice/src/com/bc/)
-
+<br><br>
 ### 3.구현ERD
 ![구현ERD](https://user-images.githubusercontent.com/68181461/138590422-93e5e9f0-af55-49e2-a067-eeaf578b758a.png)
