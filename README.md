@@ -17,3 +17,7 @@
 <br><br>
 ### 3.구현ERD
 ![구현ERD](https://user-images.githubusercontent.com/68181461/138590422-93e5e9f0-af55-49e2-a067-eeaf578b758a.png)
+<br><br>
+### 4.실행결과
+https://user-images.githubusercontent.com/68181461/138591102-ac4e0792-0513-4f61-8098-127556b2b2d0.mp4
+
