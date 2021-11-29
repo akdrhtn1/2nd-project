@@ -16,6 +16,7 @@
   * [controller](/2ndNotice/src/com/bc/)
 <br><br>
 ### 3.구현ERD
+<img width="500px" height="300px" src="https://user-images.githubusercontent.com/68181461/138590422-93e5e9f0-af55-49e2-a067-eeaf578b758a.png">
 ![구현ERD](https://user-images.githubusercontent.com/68181461/138590422-93e5e9f0-af55-49e2-a067-eeaf578b758a.png)
 <br><br>
 ### 4.실행결과
