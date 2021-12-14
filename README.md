@@ -7,16 +7,16 @@
    - 역할 :  공지사항 - 공지사항 게시판 , 자주 묻는 질문, 메인 header 등 처리 <br>
 
 <br><br>               
-### 2.소스코드
+### 📖 &nbsp;2.소스코드
   * [model](/2ndNotice/src/com/bc/model/vo/)
   * [view](/2ndNotice/WebContent/)
   * [controller](/2ndNotice/src/com/bc/)
 <br><br>
-### 3.구현ERD
+### 💾 &nbsp;3.구현ERD
 <img width="600px" height="400px" src="https://user-images.githubusercontent.com/68181461/138590422-93e5e9f0-af55-49e2-a067-eeaf578b758a.png">
 
 <br><br>
-### 4.실행결과
+### 🎞 &nbsp;4.대표기능 실행결과
 
 ![Hnet-image (1)](https://user-images.githubusercontent.com/68181461/138591677-3eeadae3-8d96-457e-9699-6e1d6038a004.gif)
 
