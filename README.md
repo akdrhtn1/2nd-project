@@ -14,7 +14,7 @@
   * [sql](/2ndNotice/sql/)
 <br><br>
 ### 💾 &nbsp;3.구현ERD
-<img width="600px" height="400px" src="https://user-images.githubusercontent.com/68181461/138590422-93e5e9f0-af55-49e2-a067-eeaf578b758a.png">
+![DOLBOM](https://user-images.githubusercontent.com/68181461/145972673-a65b8c7b-7ae6-49b2-a5c4-bf3b247b65b1.png)
 
 <br><br>
 ### 🎞 &nbsp;4.대표기능 실행결과
