@@ -18,9 +18,15 @@
 
 <br><br>
 ### 🎞 &nbsp;4.대표기능 실행결과
-#4-1 고객센터, 자주묻는 
+
+#### 4-1 고객센터, 자주묻는 질문
+
 ![1](https://user-images.githubusercontent.com/68181461/146047608-0a1d62ab-ef08-446b-9c81-2b37674ba00f.gif)
 
+#### 4-2 가이드, 공지사항
+
 ![2](https://user-images.githubusercontent.com/68181461/146047640-280b00ec-63f3-4c70-b53c-706e1b7b3324.gif)
+
+#### 4-3 문의사항 등록
 
 ![3](https://user-images.githubusercontent.com/68181461/146047650-2c9078ad-5d8f-40d0-a5fd-f78df89a1a11.gif)
