@@ -19,5 +19,8 @@
 <br><br>
 ### 🎞 &nbsp;4.대표기능 실행결과
 
-![Hnet-image (1)](https://user-images.githubusercontent.com/68181461/138591677-3eeadae3-8d96-457e-9699-6e1d6038a004.gif)
+![1](https://user-images.githubusercontent.com/68181461/146047608-0a1d62ab-ef08-446b-9c81-2b37674ba00f.gif)
 
+![2](https://user-images.githubusercontent.com/68181461/146047640-280b00ec-63f3-4c70-b53c-706e1b7b3324.gif)
+
+![3](https://user-images.githubusercontent.com/68181461/146047650-2c9078ad-5d8f-40d0-a5fd-f78df89a1a11.gif)
