@@ -11,6 +11,7 @@
   * [model](/2ndNotice/src/com/bc/model/vo/)
   * [view](/2ndNotice/WebContent/)
   * [controller](/2ndNotice/src/com/bc/)
+  * [sql](/2ndNotice/sql/)
 <br><br>
 ### 💾 &nbsp;3.구현ERD
 <img width="600px" height="400px" src="https://user-images.githubusercontent.com/68181461/138590422-93e5e9f0-af55-49e2-a067-eeaf578b758a.png">
